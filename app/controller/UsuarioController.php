@@ -13,7 +13,7 @@ class UsuarioController extends Controller {
         $jsonContent = $serializer->serialize($data, 'json');
         echo $jsonContent;
 
-        var_dump($data);
+        //var_dump($data);
         //echo $this->json_encode($data);
 
     }
