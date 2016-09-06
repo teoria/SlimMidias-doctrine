@@ -1,0 +1,7 @@
+{
+    "require": {
+        "midias-educativas/slim-midias": "*",
+        "doctrine/orm": "2.4.*",
+        "jms/serializer": "^1.3"
+    }
+}
